@@ -7,8 +7,8 @@
 ## Libary: Axios
 
 ## API via CEP
-![m1](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img3)
+![m1](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img3.jpg)
 ## Front-end
-![m1](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img1)
-![m1](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img2)
+![m2](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img1.jpg)
+![m3](https://github.com/danrleyney2210/Busca_CEP/tree/main/image/img2.jpg)
 
